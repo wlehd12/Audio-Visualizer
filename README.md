@@ -23,7 +23,7 @@ Bit Per Sample : Sample 한 개를 나타내는데 이용되는 bit수
 
 ### 헤더 설정
 
-![image](https://github.com/wlehd12/Audio-Visualizer/assets/125344095/a3b6d8b0-687f-489c-9482-803ae453b4ef)
+![그림1](https://github.com/wlehd12/Audio-Visualizer/assets/125344095/a3cc1ed4-368a-4bbc-8f42-af1faa3a618c)
 
 
 ### MCI를 이용한 소리 녹음 및 재생

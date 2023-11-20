@@ -2,7 +2,8 @@
 
 ### Wave 파일 분석
 
-![image](https://github.com/wlehd12/Audio-Visualizer/assets/125344095/1fb5f3ff-7886-4cb0-94f0-39770fce6501)
+![image](https://github.com/wlehd12/Audio-Visualizer/assets/125344095/6adb0f30-9b81-47af-9960-f45f46f92d89)
+
 
 Chunk ID : fmt 라는 고정값이 들어감
 
